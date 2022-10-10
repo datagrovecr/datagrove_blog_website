@@ -1,0 +1,20 @@
+{
+  "name": "datagrove_blog",
+  "version": "1.0.0",
+  "description": "Blog for Datagrove",
+  "main": "index.md",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Raquel Abarca",
+  "license": "MIT"
+}
