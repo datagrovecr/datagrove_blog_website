@@ -5,4 +5,4 @@ I am trying to do something cool
 
 ### All these options work!
 
-[Getting started](/getting-started.md)
+[Second page](/getting-started.md)
