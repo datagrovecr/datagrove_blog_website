@@ -1,7 +1,12 @@
 import { defineConfig } from 'vitepress'
 
 export default ({
-    description: 'Software That Does Good',
+    description: 'To datagrove blog',
     title: 'Datagrove Blog',
-    logo: '/bright_green_circle.png',
+
+    themeConfig: {
+        logo: '/bright_green_circle.png',
+
+        
+      }
 })
