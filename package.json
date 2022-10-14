@@ -16,5 +16,9 @@
     "blog"
   ],
   "author": "Raquel Abarca",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.21",
+    "vue": "^3.2.41"
+  }
 }
