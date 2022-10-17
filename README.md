@@ -1,7 +1,7 @@
 # datagrove_blog_website
-### Blog website for datagrove
+## blog website for datagrove
 
-## How can I upload my blog post?
+### How can I upload my blog post?
 
 First, clone the repo:
 
